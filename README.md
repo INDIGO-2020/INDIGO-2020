@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @INDIGO-2020
 - 📫 How to reach me 
-    email : anggaaf007@gmail.com
+    email : angga4work@outlook.com
 
 <!---
 INDIGO-2020/INDIGO-2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
